@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Dibbydodo
 - 👀 I’m interested in web and game development
 - 🌱 I’m currently learning web developmwnt
-- 💞️ I’m looking to collaborate on nothing
+- I would love to learn game developement soon
+- Languages I know: HTML, CSS
+- Languages I'm learning: Javascript
+- Languages I'm interested in: Python, C#, C++
 
 <!---
 Dibbydodo/Dibbydodo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
